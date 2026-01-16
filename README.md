@@ -27,7 +27,7 @@ When I'm not working with data, I enjoy being a 'hobbbyholic'—trying something
 ## 🔭 What I'm Currently Working On 
 
 - **Project A:** [Continuing to improve my language skills in Python and SQL]  
-- **Project B:** [Enhancing the dynamic capability of my Power BI visualisations]
+- **Project B:** [Enhancing the dynamic capabilities of my Power BI visualisations]
 - **Project C:** [Enhancing my knowledge on AI and cloud-based services(e.g. DataBricks)]
 
 ## 🌱 Currently Learning 
