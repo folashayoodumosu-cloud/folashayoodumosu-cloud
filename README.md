@@ -36,7 +36,7 @@ When I'm not working with data, I enjoy being a 'hobbbyholic'—trying something
 - [Data modelling and forecasting]
 - [Cloud data warehousing with Google BigQuery.]
 
-## 🛠️ Technical Skillset**
+## 🛠️ Technical Skillset
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
 
