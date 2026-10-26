@@ -3,7 +3,7 @@
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Financal+Analytics;Turning+Data+into+Actionable+Insights;[Risk+Analytics+Understanding];[Level+4+Data+Analytics+Qualification]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Financial+Analytics;Turning+Data+into+Actionable+Insights;[Risk+Analytics+Understanding];[Level+4+Data+Analytics+Qualification]" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
@@ -26,19 +26,19 @@ When I'm not working with data, I enjoy being a 'hobbbyholic'—trying something
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Continuing to improve my language skills in Python and SQL]  
-- **Project B:** [Enhancing the dynamic capabilities of my Power BI visualisations]
-- **Project C:** [Enhancing my knowledge on AI and cloud-based services(e.g. DataBricks)]
+- **Project A:** Continuing to improve my language skills in Python and SQL  
+- **Project B:** Enhancing the dynamic capabilities of my Power BI visualisations
+- **Project C:** Enhancing my knowledge on AI and cloud-based services(e.g. DataBricks)
 
 ## 🌱 Currently Learning 
 
-- [Machine learning techniques]
-- [Data modelling and forecasting]
-- [Cloud data warehousing with Google BigQuery.]
+- Machine learning techniques
+- Data modelling and forecasting
+
 
 ## 🛠️ Technical Skillset
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
+<!-- This section uses Shields.io badges. You can customise them or create your own!-->
 
 #### Data Analysis & Visualisation
 <p>
